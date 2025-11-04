@@ -122,3 +122,11 @@ Widget build(BuildContext context) {
   );
 }
 ```
+
+## Screenshot Aplikasi
+
+<img width="625" height="881" alt="image" src="https://github.com/user-attachments/assets/228d67cd-9e9d-4675-b62c-b1bf84811fd8" />
+
+<img width="628" height="878" alt="image" src="https://github.com/user-attachments/assets/290d47ce-bdd0-4b44-899a-6a64e9f77efd" />
+
+
